@@ -1,6 +1,5 @@
 # Excel-and-Tableau-Dashboard-For-Wealth-of-Nations-Dataset
 # Wealth of Nations Data Analysis Project
-# Wealth of Nations Data Analysis Project
 
 ## Overview
 This project focuses on analyzing data from the Wealth of Nations dataset, exploring various socio-economic indicators across different countries. The analysis involves data cleaning, filtering, sorting, and visualizing the data using Excel and Tableau to gain meaningful insights.
