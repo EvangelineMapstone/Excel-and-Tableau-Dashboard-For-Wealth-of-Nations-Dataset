@@ -33,5 +33,6 @@ After preprocessing in Excel, the dataset was imported into Tableau for advanced
 
 
 
-Link to the Tableau Dashboard: The Wealth of Nations | Tableau Public 
+Link to the Tableau Dashboard: https://public.tableau.com/app/profile/evie.mapstone/viz/TheWealthofNations_17116427611390/TheWealthofNationsDashboard
+
 
